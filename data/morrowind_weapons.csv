@@ -1,0 +1,109 @@
+name,weight,health,value,min_damage,max_damage,speed,reach,enchant,style,grip,magic,make
+Ancient Silver Dagger,2.4,400,100,4,5,2.5,1,0,Short Blade,1-Hand,Special,silver
+Boethiah's Walking Stick,24,1200,21075,1,16,1.75,1.8,0,Staff,2-Hand,Special,daedric
+Chitin Club,6,320,6,1,3,1.5,1,2,Blunt Weapons,1-Hand,Normal,chitin
+Chitin Dagger,1.5,380,6,3,4,2,1,1,Short Blade,1-Hand,Normal,chitin
+Chitin Shortsword,4,540,13,3,9,2,1,2,Short Blade,1-Hand,Normal,chitin
+Chitin Spear,7,500,13,1,13,1,1.8,2.5,Spear,2-Hand,Normal,chitin
+Chitin War Axe,12,640,19,1,11,1.25,1,2.5,Axe,1-Hand,Normal,chitin
+Conoon Chodala's Axe,14.4,640,12000,1,33,1.25,1,0,Axe,1-Hand,Unique,glass
+Daedric Battle Axe,90,4800,50000,1,80,1,1,16.5,Axe,2-Hand,Normal,daedric
+Daedric Claymore,81,5600,80000,1,60,1.25,1,21,Long Blade,2-Hand,Normal,daedric
+Daedric Club,36,1600,10000,4,12,1.5,1,12,Blunt Weapons,1-Hand,Normal,daedric
+Daedric Crescent,35,5400,180000,5,50,1.25,1,0,Long Blade,2-Hand,Artifact,daedric
+Daedric Dagger,9,700,10000,8,12,2.5,1,6,Short Blade,1-Hand,Normal,daedric
+Daedric Dai-katana,60,7200,120000,1,60,1.35,1,21,Long Blade,2-Hand,Normal,daedric
+Daedric Katana,54,4800,50000,1,44,1.5,1,18,Long Blade,1-Hand,Normal,daedric
+Daedric Longsword,60,3200,40000,1,44,1.35,1,18,Long Blade,1-Hand,Normal,daedric
+Daedric Mace,45,4800,24000,2,30,1.3,1,15,Blunt Weapons,1-Hand,Normal,daedric
+Daedric Shortsword,24,1500,20000,10,26,2,1,12,Short Blade,1-Hand,Normal,daedric
+Daedric Spear,42,1000,20000,2,40,1,1.8,15,Spear,2-Hand,Normal,daedric
+Daedric Staff,24,1200,14000,1,16,1.75,1.8,21,Staff,2-Hand,Normal,daedric
+Daedric Tanto,12,1100,14000,9,20,2.25,1,6.6,Short Blade,1-Hand,Normal,daedric
+Daedric Wakizashi,30,1100,48000,7,30,2.25,1,13.5,Short Blade,1-Hand,Normal,daedric
+Daedric War Axe,72,3200,30000,1,44,1.25,1,15,Axe,1-Hand,Normal,daedric
+Daedric Warhammer,96,8000,30000,1,70,1,1.5,16.5,Warhammer,2-Hand,Normal,daedric
+Dagoth Dagger,1.5,400,22,4,7,2.5,1,,Short Blade,1-Hand,Special,chitin
+Dreugh Club,10.8,400,200,3,8,1.5,1,3.6,Blunt Weapons,1-Hand,Normal,dreugh
+Dreugh Staff,7.2,270,400,1,10,1.75,1.5,6.3,Staff,2-Hand,Normal,dreugh
+Dwarven Battle Axe,30,3000,750,1,35,1,1,5.5,Axe,2-Hand,Normal,dwarven
+Dwarven Claymore,27,3500,1200,1,33,1.25,1,7,Long Blade,2-Hand,Normal,dwarven
+Dwarven Halberd,24,1000,600,1,28,1,1.8,7,Spear,2-Hand,Normal,dwarven
+Dwarven Mace,15,3000,360,1,17,1.5,1,5,Blunt Weapons,1-Hand,Normal,dwarven
+Dwarven Shortsword,8,1050,300,7,15,2,1,4,Short Blade,1-Hand,Normal,dwarven
+Dwarven Spear,14,1400,300,2,21,1,1.8,5,Spear,2-Hand,Normal,dwarven
+Dwarven War Axe,24,2000,450,1,24,1.25,1,5,Axe,1-Hand,Normal,dwarven
+Dwarven Warhammer,32,5000,600,1,39,1,1.5,5.5,Warhammer,2-Hand,Normal,dwarven
+Ebony Broadsword,24,1800,15000,2,26,1.25,1,10,Long Blade,1-Hand,Normal,ebony
+Ebony Longsword,40,1600,20000,1,37,1.35,1,12,Long Blade,1-Hand,Normal,ebony
+Ebony Mace,30,3600,12000,1,26,1.5,1,10,Blunt Weapons,1-Hand,Normal,ebony
+Ebony Shortsword,16,1200,10000,10,25,2,1,8,Short Blade,1-Hand,Normal,ebony
+Ebony Spear,28,1200,10000,2,32,1,1.8,10,Spear,2-Hand,Normal,ebony
+Ebony Staff,16,900,7000,1,16,1.75,1.8,90,Staff,2-Hand,Normal,ebony
+Ebony War Axe,48,2400,15000,1,37,1.25,1,10,Axe,1-Hand,Normal,ebony
+Foeburner,16,3500,1400,1,20,1.25,1,4,Long Blade,2-Hand,Normal,other
+Gavel of the Ordinator,15,3000,375,1,17,1.3,1,0,Blunt Weapons,1-Hand,Special,dwarven
+Glass Claymore,16.2,840,32000,1,45,1.25,1,4.2,Long Blade,2-Hand,Normal,glass
+Glass Dagger,1.8,300,4000,6,15,2.5,1,1.2,Short Blade,1-Hand,Normal,glass
+Glass Halberd,8.4,600,16000,1,38,1,1.8,3,Spear,2-Hand,Normal,glass
+Glass Longsword,12,480,16000,1,33,1.35,1,3.6,Long Blade,1-Hand,Normal,glass
+Glass Staff,4.8,240,5600,1,12,1.75,1.5,4.2,Staff,2-Hand,Normal,glass
+Glass War Axe,14.4,640,12000,1,33,1.25,1,3,Axe,1-Hand,Normal,glass
+Imperial Broadsword,12,600,60,4,12,1.25,1,7,Long Blade,1-Hand,Normal,imperial
+Imperial Shortsword,9,700,30,4,10,2,1,5,Short Blade,1-Hand,Normal,imperial
+Iron Battle Axe,30,1200,50,1,32,1,1,5.5,Axe,2-Hand,Normal,iron
+Iron Broadsword,12,600,30,2,12,1.25,1,5,Long Blade,1-Hand,Normal,iron
+Iron Claymore,27,1400,80,1,24,1.25,1,7,Long Blade,2-Hand,Normal,iron
+Iron Club,12,400,10,1,5,1.5,1,4,Blunt Weapons,1-Hand,Normal,iron
+Iron Dagger,3,400,10,4,5,2.5,1,2,Short Blade,1-Hand,Normal,iron
+Iron Fork,1,400,1,3,5,2.5,1,10,Short Blade,1-Hand,Normal,iron
+Iron Halberd,14,700,40,1,20,1,1.8,5,Spear,2-Hand,Normal,iron
+Iron Longsword,20,800,40,1,18,1.35,1,6,Long Blade,1-Hand,Normal,iron
+Iron Mace,15,1200,24,1,12,1.3,1,5,Blunt Weapons,1-Hand,Normal,iron
+Iron Saber,15,700,24,1,18,1.4,1,5.5,Long Blade,1-Hand,Normal,iron
+Iron Shortsword,8,600,20,4,11,2,1,4,Short Blade,1-Hand,Normal,iron
+Iron Spear,14,400,20,1,20,1,1.8,5,Spear,2-Hand,Normal,iron
+Iron Spear,14,600,20,2,15,1,1.8,5,Spear,2-Hand,Normal,iron
+Iron Tanto,4,500,14,5,6,2.25,1,2.2,Short Blade,1-Hand,Normal,iron
+Iron Wakizashi,10,500,24,1,12,2.25,1,4.5,Short Blade,1-Hand,Normal,iron
+Iron War Axe,24,800,30,1,18,1.25,1,5,Axe,1-Hand,Normal,iron
+Iron Warhammer,32,2000,40,1,28,1,1.5,5.5,Warhammer,2-Hand,Normal,iron
+Mephala's Teacher,36,1600,12500,3,12,1.5,1,0,Blunt Weapons,1-Hand,Special,daedric
+Miner's Pick,20,400,8,2,7,1,1,1,Axe,2-Hand,Normal,other
+Nordic Battle Axe,30,1200,60,1,30,1,1,5.5,Axe,2-Hand,Normal,nordic
+Nordic Broadsword,15,800,95,2,18,1.25,1,6,Long Blade,1-Hand,Normal,nordic
+Nordic Claymore,30,1600,180,1,30,1.25,1,10,Long Blade,2-Hand,Normal,nordic
+Orc Warhammer,38.4,4000,1600,1,42,1,1.5,6.6,Warhammer,2-Hand,Normal,orcish
+Orcish Battle Axe,15,2400,2000,2,28,1,1,8,Axe,2-Hand,Normal,orcish
+Saint's Black Sword,16,1200,12500,10,20,2,1,,Short Blade,1-Hand,Special,ebony
+Silver Claymore,21.6,1260,320,1,27,1.25,1,5.6,Long Blade,2-Hand,Normal,silver
+Silver Dagger,2.4,400,40,4,5,2.5,1,1.6,Short Blade,1-Hand,Normal,silver
+Silver Longsword,16,640,160,2,20,1.35,1,4.8,Long Blade,1-Hand,Normal,silver
+Silver Shortsword,6,570,80,5,10,2,1,3.6,Short Blade,1-Hand,Normal,silver
+Silver Spear,11.2,500,80,1,23,1,1.8,4,Spear,2-Hand,Normal,silver
+Silver Staff,6.4,270,56,1,7,1.75,1.5,5.6,Staff,2-Hand,Normal,silver
+Silver War Axe,19.2,720,120,1,20,1.25,1,4,Axe,1-Hand,Normal,silver
+Sixth House Bell Hammer,75,4000,5000,1,50,1,1.5,10.5,Warhammer,2-Hand,Normal,other
+Spiked Club,12,400,18,1,5,1.5,1,4,Blunt Weapons,1-Hand,Normal,other
+Spirit-Eater,40,1800,25000,1,37,1.35,1,0,Long Blade,1-Hand,Special,ebony
+Steel Axe,24,1200,60,1,18,1,1,4.5,Axe,1-Hand,Normal,steel
+Steel Battle Axe,30,1800,100,1,36,1,1,5.5,Axe,2-Hand,Normal,steel
+Steel Broadsword,12,900,60,2,14,1.25,1,5,Long Blade,1-Hand,Normal,steel
+Steel Claymore,27,2100,160,1,27,1.25,1,7,Long Blade,2-Hand,Normal,steel
+Steel Club,12,600,20,3,5,1.5,1,4,Blunt Weapons,1-Hand,Normal,steel
+Steel Dagger,3,450,20,4,5,2.5,1,2,Short Blade,1-Hand,Normal,steel
+Steel Dai-katana,20,2700,240,1,27,1.35,1,7,Long Blade,2-Hand,Normal,steel
+Steel Halberd,14,1000,80,1,23,1,1.8,5,Spear,2-Hand,Normal,steel
+Steel Katana,18,1800,100,1,20,1.5,1,6,Long Blade,1-Hand,Normal,steel
+Steel Longsword,20,900,80,1,20,1.35,1,6,Long Blade,1-Hand,Normal,steel
+Steel Mace,15,1800,48,1,14,1.3,1,5,Blunt Weapons,1-Hand,Normal,steel
+Steel Saber,15,1050,48,1,20,1.4,1,5.5,Long Blade,1-Hand,Normal,steel
+Steel Shortsword,8,750,40,5,12,2,1,4,Short Blade,1-Hand,Normal,steel
+Steel Spear,14,1000,40,2,17,1,1.8,5,Spear,2-Hand,Normal,steel
+Steel Staff,8,300,28,1,7,1.75,1.8,7,Staff,2-Hand,Normal,steel
+Steel Tanto,4,600,28,6,11,2.25,1,2.2,Short Blade,1-Hand,Normal,steel
+Steel Wakizashi,10,600,48,2,12,2.25,1,4.5,Short Blade,1-Hand,Normal,steel
+Steel War Axe,24,1200,60,1,20,1.25,1,5,Axe,1-Hand,Normal,steel
+Steel Warhammer,32,3000,80,1,32,1,1.5,5.5,Warhammer,2-Hand,Normal,steel
+Wizard's Staff,16,900,10000,1,16,1.75,1.8,0,Staff,2-Hand,Special,ebony
+Wooden Staff,8,300,8,1,6,1.75,1.8,7,Staff,2-Hand,Normal,wooden
